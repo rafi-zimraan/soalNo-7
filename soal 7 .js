@@ -10,6 +10,3 @@ for (let v = 0; v < 17; v+=2) {
     }document.write("</br>")
     
 }
-
-
-
